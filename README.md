@@ -1,0 +1,2 @@
+# MACHINE-LEARNING-APPROACH-TO-ESTIMATE-HEALTH-OF-EV-BATTERY
+The project addresses an approach to calculate the values of State of Charge (SoC) and State of Health (SoH) of battery which in turn can be used to calculate the state of function (SoF) of battery. These can be automated using machine learning which is illustrated in the project. The project was created in google colab notebook using python.
